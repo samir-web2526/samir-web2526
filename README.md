@@ -7,9 +7,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Developing scalable full-stack web applications using Next.js, TypeScript, and PostgreSQL<br>👯 I’m looking to collaborate on <br>Open-source projects and scalable web applications<br>🤝 I’m looking for help with<br>Improving my system design skills and optimizing performance<br>🌱 I’m currently learning<br>Next.js, TypeScript, Go, and Docker for building modern web applications<br>💬 Ask me about<br>Full-stack development (React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL) and anything related to web development<br>⚡ Fun fact <br>I love sports and enjoy both playing and watching games like football and cricket in my free time 😄<br>🌐 Explore my portfolio: [SamirBaishnab](https://portfolio-kappa-weld-92.vercel.app/)<br>📫 Reach me at: samirbaishnab26@email.com
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samir.baishnab.430316) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samir_dev2111/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samir_dev2111/) 
