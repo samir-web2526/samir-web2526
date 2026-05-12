@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:60px;">
+<h1 align="center" style="font-size:80px; font-weight:400;">
   Hi 👋, I'm Samir Baishnab
 </h1>
 
