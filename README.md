@@ -1,7 +1,6 @@
 Hi 👋, I'm Samir Baishnab
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Full+Stack+Web+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Go+%E2%80%A2+Docker+Enthusiast;Building+Scalable+Modern+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1200&lines=Full+Stack+Web+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Go+%E2%80%A2+Docker+Enthusiast;Building+Scalable+Modern+Web+Applications)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I’m currently working on<br>Developing scalable full-stack web applications using Next.js, TypeScript, and PostgreSQL<br>👯 I’m looking to collaborate on <br>Open-source projects and scalable web applications<br>🤝 I’m looking for help with<br>Improving my system design skills and optimizing performance<br>🌱 I’m currently learning<br>Next.js, TypeScript, Go, and Docker for building modern web applications<br>💬 Ask me about<br>Full-stack development (React, Next.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL) and anything related to web development<br>⚡ Fun fact <br>I love sports and enjoy both playing and watching games like football and cricket in my free time 😄<br>🌐 Explore my portfolio: [SamirBaishnab](https://portfolio-kappa-weld-92.vercel.app/)<br>📫 Reach me at: samirbaishnab26@email.com
