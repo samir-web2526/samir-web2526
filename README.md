@@ -21,6 +21,10 @@
 ![](https://streak-stats.demolab.com/?user=samir-web2526&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=samir-web2526&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samir-web2526&theme=radical)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samir-web2526&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
