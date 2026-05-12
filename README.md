@@ -1,4 +1,6 @@
-Hi 👋, I'm Samir Baishnab
+<h1 align="center" style="font-size:50px;">
+  Hi 👋, I'm Samir Baishnab
+</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=2000&center=true&width=1400&height=100&lines=Full+Stack+Web+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Go+%E2%80%A2+Docker+Enthusiast;Building+Scalable+Modern+Web+Applications)](https://git.io/typing-svg)
 
